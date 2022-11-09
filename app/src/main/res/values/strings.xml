@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Тренажерный зал</string>
+    <string name="header">Тренажерный зал</string>
+    <string name="header2">Заполните данные:</string>
+    <string name="Next">Добавить посетителя</string>
+    <string name="Finish">Закончить регистрацию</string>
+
+    <string name="Back">Back</string>
+</resources>
